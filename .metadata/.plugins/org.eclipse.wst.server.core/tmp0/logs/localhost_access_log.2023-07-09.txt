@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Jul/2023:15:27:09 -0300] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:28:12 -0300] "POST /petshopteste/cadastro-pets?nome=Catire%20Valetin&peso=15.10&raca=Cachorro&especie=SDR HTTP/1.1" 201 93
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:28:50 -0300] "POST /petshopteste/cadastro-pets?nome=Gatirri&peso=1.50&raca=Gato&especie=SDR HTTP/1.1" 201 81
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:29:21 -0300] "POST /petshopteste/cadastro-pets?nome=Kiara&peso=2.30&raca=Cachorro&especie=Puddler HTTP/1.1" 201 87
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:29:30 -0300] "GET /petshopteste/cadastro-pets HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:30:13 -0300] "PUT /petshopteste/cadastro-pets?id=1&peso=11 HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:30:20 -0300] "GET /petshopteste/cadastro-pets HTTP/1.1" 200 231
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:30:44 -0300] "DELETE /petshopteste/cadastro-pets?id=3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:30:50 -0300] "GET /petshopteste/cadastro-pets HTTP/1.1" 200 157
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:15:32:18 -0300] "POST /petshopteste/cadastro-inicial HTTP/1.1" 500 1539

@@ -1,0 +1,48 @@
+package br.senai.petshopteste;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Banco {
+// Métodos Pet	
+	private static List<Pet> pets = new ArrayList<>();
+	private static int id = 0;
+	
+	public static void salva(Pet pet) {
+		if (pet != null) {
+			
+			pet.setId(++id);
+			pets.add(pet);
+	
+		}
+	}
+	
+	public static List<Pet> busca() {
+		return pets;
+	}
+	
+// Métodos Tutor
+	
+	private static List<Tutor> tutores = new ArrayList<>();
+	private static int id = 0;
+	
+	public static void salva(Tutor tutor) {
+		if (tutor != null) {
+			
+			tutor.setId(++id);
+			tutores.add(tutor);
+	
+		}
+	}
+	
+	public static List<Tutor> buscar() {
+		return tutores;
+	}
+	
+	
+	
+	
+	
+	
+	
+}

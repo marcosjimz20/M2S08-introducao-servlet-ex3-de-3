@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Marcos\Documents\FullStack\Modulo 2\Semana Exercícios\[M2S08]\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2814790133.index
+4198866341.index
+4211851914.index

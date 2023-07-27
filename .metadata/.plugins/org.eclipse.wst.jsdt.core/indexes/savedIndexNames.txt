@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Marcos\Documents\FullStack\Modulo 2\Semana Exercícios\[M2S08]\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+595961403.index
+4198866341.index
+2569048016.index
+2835654555.index
+3582836542.index
+2596321414.index
